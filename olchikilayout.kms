@@ -1,6 +1,6 @@
 ﻿/*
-@NAME = 'Ol_Chiki_Phonetic'
-@DESCRIPTION = 'Sarjom baha phonetic layout for Ol Chiki (Santhali)'
+@NAME = 'Ol_Chiki_old_layout'
+@DESCRIPTION = 'As per keymap of most popular non-unicode font '
 @ICON = ''
 @FONTFAMILY = ''
 @HOTKEY = ''
